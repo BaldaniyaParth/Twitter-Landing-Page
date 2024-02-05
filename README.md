@@ -12,7 +12,7 @@ Clean and organized HTML structure.
 ![Twitter Profile Page](./icon/Twitter.png)
 
 ## How to Use
-####Clone the repository: git clone https://github.com/your-username/twitter-landing-page.git
+#### Clone the repository: git clone https://github.com/your-username/twitter-landing-page.git
 Open the index.html file in your preferred web browser.
 
 ## Contributing
