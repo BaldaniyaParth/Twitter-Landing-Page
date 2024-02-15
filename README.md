@@ -12,7 +12,7 @@ This project is a simple clone of the Twitter Profile page created using only HT
 ![Twitter Profile Page](./icon/Twitter.png)
 
 ## Video
-[![Watch the video](./icon/Twitter.png)](./screen-capture.webm)
+[![Video](./icon/Twitter.png)](./screen-capture.webm)
 
 ## How to Use
 #### Clone the repository: git clone https://github.com/BaldaniyaParth/Twitter-Profile-Page.git
